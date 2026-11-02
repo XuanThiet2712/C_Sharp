@@ -1,7 +1,0 @@
-D:\IT\C#\Projects\Csharp23\bin\Debug\Csharp23.exe.config
-D:\IT\C#\Projects\Csharp23\bin\Debug\Csharp23.exe
-D:\IT\C#\Projects\Csharp23\bin\Debug\Csharp23.pdb
-D:\IT\C#\Projects\Csharp23\obj\Debug\Csharp23.csproj.AssemblyReference.cache
-D:\IT\C#\Projects\Csharp23\obj\Debug\Csharp23.csproj.CoreCompileInputs.cache
-D:\IT\C#\Projects\Csharp23\obj\Debug\Csharp23.exe
-D:\IT\C#\Projects\Csharp23\obj\Debug\Csharp23.pdb

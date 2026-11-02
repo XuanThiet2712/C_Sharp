@@ -1,7 +1,0 @@
-D:\IT\C#\Projects\Csharp29\bin\Debug\Csharp29.exe.config
-D:\IT\C#\Projects\Csharp29\bin\Debug\Csharp29.exe
-D:\IT\C#\Projects\Csharp29\bin\Debug\Csharp29.pdb
-D:\IT\C#\Projects\Csharp29\obj\Debug\Csharp29.csproj.AssemblyReference.cache
-D:\IT\C#\Projects\Csharp29\obj\Debug\Csharp29.csproj.CoreCompileInputs.cache
-D:\IT\C#\Projects\Csharp29\obj\Debug\Csharp29.exe
-D:\IT\C#\Projects\Csharp29\obj\Debug\Csharp29.pdb

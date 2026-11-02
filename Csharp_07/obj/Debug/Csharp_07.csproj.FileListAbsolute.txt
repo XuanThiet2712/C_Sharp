@@ -1,7 +1,0 @@
-D:\IT\C#\Projects\Csharp_07\obj\Debug\Csharp_07.csproj.AssemblyReference.cache
-D:\IT\C#\Projects\Csharp_07\obj\Debug\Csharp_07.csproj.CoreCompileInputs.cache
-D:\IT\C#\Projects\Csharp_07\bin\Debug\Csharp_07.exe.config
-D:\IT\C#\Projects\Csharp_07\bin\Debug\Csharp_07.exe
-D:\IT\C#\Projects\Csharp_07\bin\Debug\Csharp_07.pdb
-D:\IT\C#\Projects\Csharp_07\obj\Debug\Csharp_07.exe
-D:\IT\C#\Projects\Csharp_07\obj\Debug\Csharp_07.pdb

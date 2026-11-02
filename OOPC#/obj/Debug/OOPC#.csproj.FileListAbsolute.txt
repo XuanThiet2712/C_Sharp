@@ -1,7 +1,0 @@
-D:\IT\C#\Projects\OOPC#\bin\Debug\OOPC#.exe.config
-D:\IT\C#\Projects\OOPC#\bin\Debug\OOPC#.exe
-D:\IT\C#\Projects\OOPC#\bin\Debug\OOPC#.pdb
-D:\IT\C#\Projects\OOPC#\obj\Debug\OOPC#.csproj.AssemblyReference.cache
-D:\IT\C#\Projects\OOPC#\obj\Debug\OOPC#.csproj.CoreCompileInputs.cache
-D:\IT\C#\Projects\OOPC#\obj\Debug\OOPC#.exe
-D:\IT\C#\Projects\OOPC#\obj\Debug\OOPC#.pdb
