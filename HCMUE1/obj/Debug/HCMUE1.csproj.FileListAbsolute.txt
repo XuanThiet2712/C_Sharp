@@ -1,0 +1,7 @@
+D:\IT\C#\Projects\HCMUE1\bin\Debug\HCMUE1.exe.config
+D:\IT\C#\Projects\HCMUE1\bin\Debug\HCMUE1.exe
+D:\IT\C#\Projects\HCMUE1\bin\Debug\HCMUE1.pdb
+D:\IT\C#\Projects\HCMUE1\obj\Debug\HCMUE1.csproj.AssemblyReference.cache
+D:\IT\C#\Projects\HCMUE1\obj\Debug\HCMUE1.csproj.CoreCompileInputs.cache
+D:\IT\C#\Projects\HCMUE1\obj\Debug\HCMUE1.exe
+D:\IT\C#\Projects\HCMUE1\obj\Debug\HCMUE1.pdb

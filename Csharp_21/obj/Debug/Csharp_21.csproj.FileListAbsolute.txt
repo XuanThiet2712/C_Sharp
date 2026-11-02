@@ -1,0 +1,7 @@
+D:\IT\C#\Projects\Csharp_21\bin\Debug\Csharp_21.exe.config
+D:\IT\C#\Projects\Csharp_21\bin\Debug\Csharp_21.exe
+D:\IT\C#\Projects\Csharp_21\bin\Debug\Csharp_21.pdb
+D:\IT\C#\Projects\Csharp_21\obj\Debug\Csharp_21.csproj.AssemblyReference.cache
+D:\IT\C#\Projects\Csharp_21\obj\Debug\Csharp_21.csproj.CoreCompileInputs.cache
+D:\IT\C#\Projects\Csharp_21\obj\Debug\Csharp_21.exe
+D:\IT\C#\Projects\Csharp_21\obj\Debug\Csharp_21.pdb

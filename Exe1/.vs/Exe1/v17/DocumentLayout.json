@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\C#\\Projects\\Exe1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D430D3-9E85-4936-9198-DE9D569781A8}|..\\bai22-oop\\bai22-oop.csproj|d:\\it\\c#\\projects\\bai22-oop\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D430D3-9E85-4936-9198-DE9D569781A8}|..\\bai22-oop\\bai22-oop.csproj|d:\\it\\c#\\projects\\bai22-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EBE8D-685D-4BEF-984F-8F8392970524}|..\\Csharp30\\Csharp30.csproj|d:\\it\\c#\\projects\\csharp30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488E67A-723B-4D0E-8C0A-3E4E7E1E08BD}|..\\Csharp29\\Csharp29.csproj|d:\\it\\c#\\projects\\csharp29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CA0111-0BA8-4DCE-A850-757AACD59C6E}|..\\Csharp_26\\Csharp_26.csproj|d:\\it\\c#\\projects\\csharp_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3B4C80-E897-4635-8177-254C61493E2B}|..\\Csharp_25\\Csharp_25.csproj|d:\\it\\c#\\projects\\csharp_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED537610-B266-4AD0-B5C3-042748550AE9}|..\\Csharp_28\\Csharp_28.csproj|d:\\it\\c#\\projects\\csharp_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA3B136-9C4D-49F9-944D-29F0C7A7066A}|..\\Csharp27\\Csharp27.csproj|d:\\it\\c#\\projects\\csharp27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC0BFF-B443-41AC-A926-41431F707E6B}|..\\CSharp_24\\CSharp_24.csproj|d:\\it\\c#\\projects\\csharp_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IT\\C#\\Projects\\Csharp_16\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34919909-F282-47DB-ADD2-EFA1BD5216F4}|..\\16_Csharp\\16_Csharp.csproj|d:\\it\\c#\\projects\\16_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E797988-6BA6-457D-95EB-92B0CBC7520E}|..\\Csharp23\\Csharp23.csproj|d:\\it\\c#\\projects\\csharp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62386E6D-A77B-4B87-A4D1-9C97E0231670}|..\\Csharp_22\\Csharp_22.csproj|d:\\it\\c#\\projects\\csharp_22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838B3F15-3BF0-4635-9E37-4807CBF9244B}|..\\Csharp_21\\Csharp_21.csproj|d:\\it\\c#\\projects\\csharp_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70ED38C8-8434-49BB-890D-5CA3147EE5F7}|..\\Csharp_20\\Csharp_20.csproj|d:\\it\\c#\\projects\\csharp_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7309B8D-5990-4B7C-AAA7-BC3FD2B02C37}|..\\Csharp_19\\Csharp_19.csproj|d:\\it\\c#\\projects\\csharp_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E782BDDF-3BD6-4CA1-80BA-21106B4F9CEE}|..\\Csharp_17\\Csharp_17.csproj|d:\\it\\c#\\projects\\csharp_17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1DB823-088F-48A8-94B7-1342C13613E1}|Exe1.csproj|D:\\IT\\C#\\Projects\\Exe1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1DB823-088F-48A8-94B7-1342C13613E1}|Exe1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8DC641-8ACC-4F11-ACF4-7434C54BA938}|..\\Ex_Csharp05\\Ex_Csharp05.csproj|d:\\it\\c#\\projects\\ex_csharp05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9178F8D9-5869-4720-B6D8-D2494FC81354}|..\\Csharp_07\\Csharp_07.csproj|d:\\it\\c#\\projects\\csharp_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DE8FE0-1933-478A-87C8-A084D2DE7958}|..\\Csharp10\\Csharp10.csproj|d:\\it\\c#\\projects\\csharp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\bai22-oop\\SinhVien.cs",
+              "RelativeDocumentMoniker": "..\\bai22-oop\\SinhVien.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\bai22-oop\\SinhVien.cs",
+              "RelativeToolTip": "..\\bai22-oop\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:11:13.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\bai22-oop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai22-oop\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\bai22-oop\\Program.cs",
+              "RelativeToolTip": "..\\bai22-oop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:08:38.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp30\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp30\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp30\\Program.cs",
+              "RelativeToolTip": "..\\Csharp30\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:37:56.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp29\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp29\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp29\\Program.cs",
+              "RelativeToolTip": "..\\Csharp29\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:31:03.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_28\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_28\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_28\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_28\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T00:50:39.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp27\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp27\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp27\\Program.cs",
+              "RelativeToolTip": "..\\Csharp27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T00:41:31.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_26\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_26\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_26\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_26\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T23:49:10.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_25\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_25\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_25\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_25\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T23:38:39.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\CSharp_24\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CSharp_24\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\CSharp_24\\Program.cs",
+              "RelativeToolTip": "..\\CSharp_24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T23:34:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_16\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_16\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T18:05:55.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\16_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\16_Csharp\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\16_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\16_Csharp\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T02:26:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp23\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp23\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp23\\Program.cs",
+              "RelativeToolTip": "..\\Csharp23\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T07:29:56.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_22\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_22\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_22\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T07:26:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_21\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_21\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_21\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_21\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T07:20:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_20\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_20\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_20\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T05:44:18.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_19\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_19\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_19\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_19\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T04:49:55.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_17\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_17\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_17\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T06:48:21.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp10\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp10\\Program.cs",
+              "RelativeToolTip": "..\\Csharp10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:20:10.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Csharp_07\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_07\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Csharp_07\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_07\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAvwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T16:32:41.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Ex_Csharp05\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex_Csharp05\\Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Ex_Csharp05\\Program.cs",
+              "RelativeToolTip": "..\\Ex_Csharp05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:08:54.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\Projects\\Exe1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\IT\\C#\\Projects\\Exe1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T11:36:08.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

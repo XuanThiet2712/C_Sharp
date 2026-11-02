@@ -1,0 +1,7 @@
+D:\IT\C#\Projects\Csharp30\bin\Debug\Csharp30.exe.config
+D:\IT\C#\Projects\Csharp30\bin\Debug\Csharp30.exe
+D:\IT\C#\Projects\Csharp30\bin\Debug\Csharp30.pdb
+D:\IT\C#\Projects\Csharp30\obj\Debug\Csharp30.csproj.AssemblyReference.cache
+D:\IT\C#\Projects\Csharp30\obj\Debug\Csharp30.csproj.CoreCompileInputs.cache
+D:\IT\C#\Projects\Csharp30\obj\Debug\Csharp30.exe
+D:\IT\C#\Projects\Csharp30\obj\Debug\Csharp30.pdb

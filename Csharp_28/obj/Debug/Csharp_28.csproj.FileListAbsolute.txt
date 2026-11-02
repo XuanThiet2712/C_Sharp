@@ -1,0 +1,7 @@
+D:\IT\C#\Projects\Csharp_28\bin\Debug\Csharp_28.exe.config
+D:\IT\C#\Projects\Csharp_28\bin\Debug\Csharp_28.exe
+D:\IT\C#\Projects\Csharp_28\bin\Debug\Csharp_28.pdb
+D:\IT\C#\Projects\Csharp_28\obj\Debug\Csharp_28.csproj.AssemblyReference.cache
+D:\IT\C#\Projects\Csharp_28\obj\Debug\Csharp_28.csproj.CoreCompileInputs.cache
+D:\IT\C#\Projects\Csharp_28\obj\Debug\Csharp_28.exe
+D:\IT\C#\Projects\Csharp_28\obj\Debug\Csharp_28.pdb

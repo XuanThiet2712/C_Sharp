@@ -1,0 +1,7 @@
+D:\IT\C#\Projects\Csharp27\bin\Debug\Csharp27.exe.config
+D:\IT\C#\Projects\Csharp27\bin\Debug\Csharp27.exe
+D:\IT\C#\Projects\Csharp27\bin\Debug\Csharp27.pdb
+D:\IT\C#\Projects\Csharp27\obj\Debug\Csharp27.csproj.AssemblyReference.cache
+D:\IT\C#\Projects\Csharp27\obj\Debug\Csharp27.csproj.CoreCompileInputs.cache
+D:\IT\C#\Projects\Csharp27\obj\Debug\Csharp27.exe
+D:\IT\C#\Projects\Csharp27\obj\Debug\Csharp27.pdb
